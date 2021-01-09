@@ -1,5 +1,5 @@
 ## Title
-Responsive Portfolio - Assignment 2 from web development bootcamp
+Personal portfolio made with bootstrap
 
 ## Description
 The objective of this is to build a responsive portfolio from scratch using html, css, and bootstrap. I intend to make it look very pretty and I believe that has been achieved. My goal within this assignment is to develop my bootstrap knowledge and improve my integration of bootstrap's grid system.
